@@ -1,2 +1,0 @@
-# hooktest
-Created with CodeSandbox
